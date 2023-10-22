@@ -1,1 +1,1 @@
-# Solider-predection-Project2
+# Solider Race Predection-Project2
